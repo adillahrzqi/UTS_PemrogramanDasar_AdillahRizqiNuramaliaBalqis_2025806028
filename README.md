@@ -1,1 +1,1 @@
-# UTS_PemrogramanDasar_AdillahRizqiNuramaliaBalqis_2025806028
+# 🧠 UTS Pemrograman Dasar (C & Python)
